@@ -1,0 +1,16 @@
+# AutoHotkey .gitignore
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Compiled scripts
+*.exe
+
+# Temporary files defined by user (e.g. VS Code)
+.vscode/
+
+# Backup files
+*.bak
+*_backup.*
