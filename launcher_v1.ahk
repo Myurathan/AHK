@@ -551,6 +551,7 @@ Launcher_ApplySelectionVisual() {
 }
 
 Launcher_RunSelected() {
+    global visibleOrder, selPos
     if (visibleOrder.Length < 1)
         return
     if (selPos < 1)
