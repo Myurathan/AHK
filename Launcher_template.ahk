@@ -49,7 +49,7 @@ global items := []
 ; Add launcher items
 items.Push({ name: "Excel", cmd: "excel.exe" })
 items.Push({ name: "Google Antigravity", cmd: "C:\Users\myura\AppData\Local\Programs\Antigravity\Antigravity.exe" })
-items.Push({ name: "Claude", cmd: "C:\Users\myura\AppData\Local\Microsoft\WindowsApps\Claude.exe" })
+items.Push({ name: "Claude", cmd: "shell:AppsFolder\Claude_pzs8sxrjxfjjc!Claude" })
 items.Push({ name: "Gemini", cmd: "msedge.exe --app=https://gemini.google.com" })
 items.Push({ name: "Notepad++", cmd: "notepad++.exe" })
 
